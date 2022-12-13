@@ -1,0 +1,5 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @Generate_photobot id=5945037654 - 'Generate_photo'
+INFO:aiogram.event:Update id=972249579 is handled. Duration 359 ms by bot id=5945037654
+INFO:aiogram.event:Update id=972249580 is handled. Duration 422 ms by bot id=5945037654
+INFO:aiogram.dispatcher:Polling stopped
